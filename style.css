@@ -1,0 +1,276 @@
+.fas fa-desktop {
+    padding: 15px;
+}
+
+nav {
+    background-color: hsla(0,0%,0%, 0.07);
+    width: 100%;
+    font-family: Cambria;
+    height: 40px;
+}
+
+nav ul{
+    margin: 0;
+    list-style: none;
+    width: 60%;
+    float: right;
+    padding: 5px;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+}
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: gray;
+}
+
+header {
+    background-image: url("background.jpg");
+    opacity: 0.5;
+    height: 400px;
+    background-size: cover;
+}
+
+.greeting {
+    font-size: 50px;
+    text-align: center;
+    padding:100px;
+}
+
+.icons {
+   font-size: 30px;
+   background-color: white;
+   opacity: 0.5;
+   border-radius: 5px;
+   width: 110px;
+   text-align: center;
+  
+}
+
+.offer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 30px;
+
+}
+button a {
+    color: white;
+    text-decoration: none;
+}
+button{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+#contact {
+    border-radius: 5px;
+    border-color: orange;
+    width: 200px;
+    height: 50px;
+    background: linear-gradient(270deg, #FFC53D 14%, #FF9A3D 68.5%);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+
+#cv {
+    border-radius: 5px;
+    border-color: orange;
+    width: 200px;
+    height: 50px;
+    background: linear-gradient(270deg, #FFC53D 14%, #FF9A3D 68.5%);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+#contact:hover {
+    background: linear-gradient(white, white);
+    color: orange;
+}
+
+#cv:hover {
+    background: linear-gradient(white, white);
+    color: orange;
+}
+
+
+.aboutme {
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    background-color: rgb(235, 223, 223);
+    position: relative;
+    border-radius: 15px;
+}
+
+.about {
+ height: 300px;
+}
+
+#me {
+    width: 200px;
+    height: auto;
+    float: left;
+    border-radius: 50%;
+}
+
+.data{
+width: 15%;
+padding-left: 200px;
+border-right: 3px dotted orange; height: 112px;
+padding-top: 20px;
+font-size: 20px;
+}
+
+.haboutme{
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 35px;
+}
+
+.introduction {
+    width: 65%;
+    font-size: 20px;
+    text-align: justify;
+    padding-right: 30px;
+    float: right;
+}
+
+.skills{
+    text-align: center;
+    position: relative;
+}
+.hskills{
+    font-size: 35px;
+}
+
+tr{
+    font-size: 40px;
+    text-align: center;
+    background-color: hsla(0,0%,0%, 0.07);
+}
+td {
+    padding: 20px;
+}
+
+.figma {
+    width: 250px;
+    text-align: center;
+    border-right: 3px dotted orange; height: 100px;
+}
+.frontend {
+    width: 250px;
+    border-right: 3px dotted orange; height: 100px;
+}
+
+.backend {
+    width: 250px;
+}
+
+.hportfolio{
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 35px;
+}
+.portfolio {
+   display: flex;
+   flex-wrap: wrap;
+}
+.work {
+    width: 400px;
+    height: 240px;
+}
+.work:hover {
+    opacity: 0.4;
+}
+
+.space {
+    width: 400px;
+    height: 240px;
+
+}
+.space:hover {
+    opacity: 0.4;
+}
+.fig{
+    width: 400px;
+    height: 240px;
+}
+.fig:hover {
+    opacity: 0.4;
+}
+.desktop {
+    width: 400px;
+    height: 240px;
+}
+.desktop:hover {
+    opacity: 0.4;
+}
+.house {
+    width: 400px;
+    height: 240px;
+    
+}
+.house:hover {
+    opacity: 0.4;
+}
+.contactus {
+    font-size: 30px;
+    padding-left: 30px;
+}
+.form {
+    display: flex;
+    justify-content: flex-start;;
+}
+
+.contacta {
+    width: 25%;
+  padding: 30px;
+    background-color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.start {
+    width: 35%;
+    height: 200px;
+    padding-left: 30px;
+}
+input {
+    border-radius: 5px;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.15);
+    position: relative;
+}
+
+textarea {
+    border-radius: 5px;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.send {
+    background: linear-gradient(270deg, #FFC53D 14%, #FF9A3D 68.5%);
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+   
+}
+footer {
+height: 18px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #A0A0A0;
+}
