@@ -15,6 +15,7 @@ Na niektore sekcje warto dac max-width:x;.
 Dodałbym tez jakies style ogolne na body np font-size,font-family, letter-spacing
 Na danej stornie powinna byc jedna h1.
 Duzo powtarzalnych styli - to co sie powtarza wrzucic do jednej klasy.
+Zdjęcia bardzo dużo ważą warto wykorzystac jakies narzedzie do kompresji zdjec np https://squoosh.app/ (to lepsze :))) ) albo https://imagecompressor.com/pl/ 
 
 
 Code quality - 7/10
