@@ -19,7 +19,7 @@ Zdjęcia bardzo dużo ważą warto wykorzystac jakies narzedzie do kompresji zdj
 
 
 Code quality - 7/10
-Design quality - 7/10
+Design quality - 5/10
 Business quality - 5/10
 Features quality - 2/10
-Ocena 21/40
+Ocena 19/40
