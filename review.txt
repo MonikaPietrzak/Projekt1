@@ -1,0 +1,25 @@
+Jak mamy duzo zdjęć to zastanowiłbym się nad stworzeniem folderu "images" albo cos takiego.
+
+Strona wyglada jak wyglada, ale jak na sam poczatek według mnie jest dobrze. 
+Błędy są, ale to kwestia czasu i wprawy, aby się ich pozbyc - budowanie struktury html, czy stylownie.
+Jako ze to twoja pierwsza strona (chyba) to dobrym pomsylem jest sie trzymac scisle layoutu.
+
+Imo za duza float'ów za malo np flexa.
+Nav fajnie jak jest fixed.
+Brakuje <main></main>.
+Brak resetu psuje troche strone.
+Hover na buttonach nie działa jak powinien - po najechaniu zmienia sie kolor, ale nie widac napisu.
+Brak transitionow do animacji/hoverow.
+Tabele do tabel, flex/grid do struktury
+Na niektore sekcje warto dac max-width:x;.
+Dodałbym tez jakies style ogolne na body np font-size,font-family, letter-spacing
+Na danej stornie powinna byc jedna h1.
+Duzo powtarzalnych styli - to co sie powtarza wrzucic do jednej klasy.
+Zdjęcia bardzo dużo ważą warto wykorzystac jakies narzedzie do kompresji zdjec np https://squoosh.app/ (to lepsze :))) ) albo https://imagecompressor.com/pl/ 
+
+
+Code quality - 7/10
+Design quality - 5/10
+Business quality - 5/10
+Features quality - 2/10
+Ocena 19/40
